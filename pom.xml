@@ -6,7 +6,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.jiuxian</groupId>
 	<artifactId>jiuxian-bom</artifactId>
-	<version>1.0.1-RELEASE</version>
+	<version>1.0.2-RELEASE</version>
 	<packaging>pom</packaging>
 	<name>Jiuxian maven project parent</name>
 	<description>Parent maven defination of Jiuxian projects</description>
@@ -38,7 +38,7 @@
 		<spring-test.version>4.2.3.RELEASE</spring-test.version>
 		<hessian.version>4.0.37</hessian.version>
 		<javassist.version>3.12.1.GA</javassist.version>
-		<ignite.version>1.7.0</ignite.version>
+		<ignite.version>1.8.0</ignite.version>
 	</properties>
 
 	<dependencyManagement>
